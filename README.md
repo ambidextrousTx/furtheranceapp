@@ -1,2 +1,2 @@
 # furtheranceapp
-Landing page of Furtherance
+Landing page of Furthering™
